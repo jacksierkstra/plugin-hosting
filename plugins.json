@@ -56,14 +56,21 @@
         "projectUrl": "https://discord.gg/OpenOSRS",
         "provider": "OpenOSRS",
         "name": "Alchemical Hydra",
-        "description": "Shows hydra helper.",
-        "id": "alchemical-hydra-plugin",
+        "description": "Show what to pray against hydra",
+        "id": "alchemicalhydra-plugin",
         "releases": [
             {
                 "date": "2020-02-08",
-                "sha512sum": "38B27CC7854034A25980589595E2502E8E1794501D2B58A70BDC2AE83716140AA0B5DA5163C9AA46674A373B43965D58CD1CBB53FD70340B86D47832E17DE813",
-                "version": "0.0.5",
-                "url": "https://github.com/jacksierkstra/plugin-hosting/blob/master/release/alchemicalhydra-0.0.5.jar?raw=true",
+                "sha512sum": "496528B782ABB24ECD03E1972F54F46AC493305C62CA92E2CD57F743A8BCF8EC179258F347983869B1C2D5D6D3F75853430D531645D93962CBA68111626BB4A6",
+                "version": "0.0.2",
+                "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/alchemicalhydra-0.0.2.jar?raw=true",
+                "requires": "0.0.1"
+            },
+            {
+                "date": "2020-02-09",
+                "sha512sum": "B55A87BEFA895A9085C4B252B8ACE87C833D94B524080C7F68CAF398D0DB28EBECDC5317773833B8F47C011F952B85D13F2BD96825ED734239D81EC41A6FAE65",
+                "version": "0.0.3",
+                "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/alchemicalhydra-0.0.3.jar?raw=true",
                 "requires": "0.0.1"
             }
         ]
