@@ -72,6 +72,20 @@
                 "version": "0.0.3",
                 "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/alchemicalhydra-0.0.3.jar?raw=true",
                 "requires": "0.0.1"
+            },
+            {
+                "date": "2020-02-10",
+                "sha512sum": "31F1DA51208FE8051F8FA94F13252CD82545608E3FFD07EA7620E9D7BF3E0ACAD4A74B801C5B5E5EE7F6766450C51D206A941AF5625818431894F3E22AB0A876",
+                "version": "0.0.4",
+                "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/alchemicalhydra-0.0.3.jar?raw=true",
+                "requires": "0.0.1"
+            },
+            {
+                "date": "2020-02-11",
+                "sha512sum": "38B27CC7854034A25980589595E2502E8E1794501D2B58A70BDC2AE83716140AA0B5DA5163C9AA46674A373B43965D58CD1CBB53FD70340B86D47832E17DE813",
+                "version": "0.0.5",
+                "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/alchemicalhydra-0.0.3.jar?raw=true",
+                "requires": "0.0.1"
             }
         ]
     },
