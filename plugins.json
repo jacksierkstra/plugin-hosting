@@ -56,12 +56,12 @@
         "projectUrl": "https://discord.gg/OpenOSRS",
         "provider": "OpenOSRS",
         "name": "Alchemical Hydra",
-        "description": "Show helpful information about agility courses and obstacles",
+        "description": "Shows hydra helper.",
         "id": "alchemical-hydra-plugin",
         "releases": [
             {
                 "date": "2020-02-08",
-                "sha512sum": "38b27cc7854034a25980589595e2502e8e1794501d2b58a70bdc2ae83716140aa0b5da5163c9aa46674a373b43965d58cd1cbb53fd70340b86d47832e17de813",
+                "sha512sum": "38B27CC7854034A25980589595E2502E8E1794501D2B58A70BDC2AE83716140AA0B5DA5163C9AA46674A373B43965D58CD1CBB53FD70340B86D47832E17DE813",
                 "version": "0.0.5",
                 "url": "https://github.com/jacksierkstra/plugin-hosting/blob/master/release/alchemicalhydra-0.0.5.jar?raw=true",
                 "requires": "0.0.1"
