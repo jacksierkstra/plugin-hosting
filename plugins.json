@@ -61,7 +61,7 @@
         "releases": [
             {
                 "date": "2020-02-08",
-                "sha512sum": "8F7886CD39AD5EE42716077E1AAC0B7ED8788B2FAF1738E5FD71D94742EB0FD6AB7DAAB82769C5CA267AFCFDF0F145180A84E7190A85813928C8E06BEDD72752",
+                "sha512sum": "38b27cc7854034a25980589595e2502e8e1794501d2b58a70bdc2ae83716140aa0b5da5163c9aa46674a373b43965d58cd1cbb53fd70340b86d47832e17de813",
                 "version": "0.0.5",
                 "url": "https://github.com/jacksierkstra/plugin-hosting/blob/master/release/alchemicalhydra-0.0.5.jar?raw=true",
                 "requires": "0.0.1"
